@@ -1,0 +1,38 @@
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.body{
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-image: url(../images/theater-image-background);
+}
+
+#myFont{
+    font-family: sans-serif;
+}
+
+{
+    text-align: center;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: right;
+    text-decoration: none;
+    font-size: 14px;
+    margin: auto;
+    background-color: goldenrod;
+}
+
+a {
+    
+}
